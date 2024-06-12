@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Kuliah\\semester 2\\Project\\MABRES\\",
+  "WorkspaceRootPath": "C:\\Kuliah\\semester 2\\Project\\percobaan\\MABRES\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B53F0833-ABB2-41AD-BED6-0BF1206D5FF2}|MABRES\\MABRES.csproj|c:\\kuliah\\semester 2\\project\\mabres\\mabres\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B53F0833-ABB2-41AD-BED6-0BF1206D5FF2}|MABRES\\MABRES.csproj|c:\\kuliah\\semester 2\\project\\percobaan\\mabres\\mabres\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B53F0833-ABB2-41AD-BED6-0BF1206D5FF2}|MABRES\\MABRES.csproj|solutionrelative:mabres\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F0833-ABB2-41AD-BED6-0BF1206D5FF2}|MABRES\\MABRES.csproj|c:\\kuliah\\semester 2\\project\\percobaan\\mabres\\mabres\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B53F0833-ABB2-41AD-BED6-0BF1206D5FF2}|MABRES\\MABRES.csproj|solutionrelative:mabres\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,10 +23,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormTest.cs [Design]",
+              "DocumentMoniker": "C:\\Kuliah\\semester 2\\Project\\percobaan\\MABRES\\MABRES\\FormTest.cs",
+              "RelativeDocumentMoniker": "MABRES\\FormTest.cs",
+              "ToolTip": "C:\\Kuliah\\semester 2\\Project\\percobaan\\MABRES\\MABRES\\FormTest.cs [Design]",
+              "RelativeToolTip": "MABRES\\FormTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:22:11.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Kuliah\\semester 2\\Project\\MABRES\\MABRES\\Form1.cs",
+              "DocumentMoniker": "C:\\Kuliah\\semester 2\\Project\\percobaan\\MABRES\\MABRES\\Form1.cs",
               "RelativeDocumentMoniker": "MABRES\\Form1.cs",
-              "ToolTip": "C:\\Kuliah\\semester 2\\Project\\MABRES\\MABRES\\Form1.cs [Design]",
+              "ToolTip": "C:\\Kuliah\\semester 2\\Project\\percobaan\\MABRES\\MABRES\\Form1.cs [Design]",
               "RelativeToolTip": "MABRES\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T07:25:38.13Z",
